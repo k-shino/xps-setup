@@ -18,7 +18,9 @@ sudo apt update -y
 sudo apt upgrade -y
 sudo apt-get update -y
 sudo apt-get upgrade -y
+sudo apt install -y ssh
 ```
+
 
 ## Reference
 
